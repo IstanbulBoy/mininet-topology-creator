@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ASCII"?>
+<kdm:Segment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:kdm="http://www.eclipse.org/MoDisco/kdm/kdm" xmlns:source="http://www.eclipse.org/MoDisco/kdm/source">
+  <model xsi:type="source:InventoryModel" name="mininet_topology">
+    <inventoryElement xsi:type="source:Project" name="mininet_topology">
+      <inventoryElement xsi:type="source:Configuration" name=".classpath" path="/home/akatosh/projet_mininet/mininet_topology/.classpath"/>
+      <inventoryElement xsi:type="source:Image" name="interface_not_clicked.png" path="/home/akatosh/projet_mininet/mininet_topology/interface_not_clicked.png"/>
+      <inventoryElement xsi:type="source:Image" name="host_not_clicked.png" path="/home/akatosh/projet_mininet/mininet_topology/host_not_clicked.png"/>
+      <inventoryElement xsi:type="source:Directory" name="UML" path="/home/akatosh/projet_mininet/mininet_topology/UML"/>
+      <inventoryElement xsi:type="source:SourceFile" name="mininet_topology_java.xmi" path="/home/akatosh/projet_mininet/mininet_topology/mininet_topology_java.xmi"/>
+      <inventoryElement xsi:type="source:Image" name="switch_clicked.png" path="/home/akatosh/projet_mininet/mininet_topology/switch_clicked.png"/>
+      <inventoryElement xsi:type="source:Image" name="link_not_clicked.png" path="/home/akatosh/projet_mininet/mininet_topology/link_not_clicked.png"/>
+      <inventoryElement xsi:type="source:Directory" name="bin" path="/home/akatosh/projet_mininet/mininet_topology/bin">
+        <inventoryElement xsi:type="source:BinaryFile" name="WindowPanel.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/WindowPanel.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="HostComponent$1.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/HostComponent$1.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="Window.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/Window.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="DraggableComponent.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/DraggableComponent.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="PhysicalInterfaceComponent$1.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/PhysicalInterfaceComponent$1.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="LinkComponent.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/LinkComponent.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="DraggableComponent$2.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/DraggableComponent$2.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="SwitchComponent$1.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/SwitchComponent$1.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="NotDraggableComponent$1.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/NotDraggableComponent$1.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="LinkComponent$2.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/LinkComponent$2.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="RegexFormatter.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/RegexFormatter.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="MenuComponentListener.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/MenuComponentListener.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="NotDraggableComponent.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/NotDraggableComponent.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="HostComponent.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/HostComponent.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="DraggableComponent$1.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/DraggableComponent$1.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="main.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/main.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="SwitchComponent$2.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/SwitchComponent$2.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="PhysicalInterfaceComponent.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/PhysicalInterfaceComponent.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="HostComponent$2.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/HostComponent$2.class"/>
+        <inventoryElement xsi:type="source:Image" name="images.jpg" path="/home/akatosh/projet_mininet/mininet_topology/bin/images.jpg"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="Component.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/Component.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="SwitchComponent$3.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/SwitchComponent$3.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="SwitchComponent.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/SwitchComponent.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="LinkComponent$1.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/LinkComponent$1.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="PortComponent.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/PortComponent.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="DrawedLinkComponent.class" path="/home/akatosh/projet_mininet/mininet_topology/bin/DrawedLinkComponent.class"/>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:Directory" name="src" path="/home/akatosh/projet_mininet/mininet_topology/src">
+        <inventoryElement xsi:type="source:SourceFile" name="MenuComponentListener.java" path="/home/akatosh/projet_mininet/mininet_topology/src/MenuComponentListener.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="DraggableComponent.java" path="/home/akatosh/projet_mininet/mininet_topology/src/DraggableComponent.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="NotDraggableComponent.java" path="/home/akatosh/projet_mininet/mininet_topology/src/NotDraggableComponent.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="main.java" path="/home/akatosh/projet_mininet/mininet_topology/src/main.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="RegexFormatter.java" path="/home/akatosh/projet_mininet/mininet_topology/src/RegexFormatter.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="Window.java" path="/home/akatosh/projet_mininet/mininet_topology/src/Window.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="PhysicalInterfaceComponent.java" path="/home/akatosh/projet_mininet/mininet_topology/src/PhysicalInterfaceComponent.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="Component.java" path="/home/akatosh/projet_mininet/mininet_topology/src/Component.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="HostComponent.java" path="/home/akatosh/projet_mininet/mininet_topology/src/HostComponent.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="WindowPanel.java" path="/home/akatosh/projet_mininet/mininet_topology/src/WindowPanel.java"/>
+        <inventoryElement xsi:type="source:Image" name="images.jpg" path="/home/akatosh/projet_mininet/mininet_topology/src/images.jpg"/>
+        <inventoryElement xsi:type="source:SourceFile" name="DrawedLinkComponent.java" path="/home/akatosh/projet_mininet/mininet_topology/src/DrawedLinkComponent.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="SwitchComponent.java" path="/home/akatosh/projet_mininet/mininet_topology/src/SwitchComponent.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="PortComponent.java" path="/home/akatosh/projet_mininet/mininet_topology/src/PortComponent.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="LinkComponent.java" path="/home/akatosh/projet_mininet/mininet_topology/src/LinkComponent.java"/>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:Image" name="link_clicked.png" path="/home/akatosh/projet_mininet/mininet_topology/link_clicked.png"/>
+      <inventoryElement xsi:type="source:Image" name="host_clicked.png" path="/home/akatosh/projet_mininet/mininet_topology/host_clicked.png"/>
+      <inventoryElement xsi:type="source:Image" name="switch_not_clicked.png" path="/home/akatosh/projet_mininet/mininet_topology/switch_not_clicked.png"/>
+      <inventoryElement xsi:type="source:Configuration" name=".project" path="/home/akatosh/projet_mininet/mininet_topology/.project"/>
+      <inventoryElement xsi:type="source:Directory" name=".settings" path="/home/akatosh/projet_mininet/mininet_topology/.settings">
+        <inventoryElement xsi:type="source:Configuration" name="org.eclipse.papyrus.infra.gmfdiag.preferences.prefs" path="/home/akatosh/projet_mininet/mininet_topology/.settings/org.eclipse.papyrus.infra.gmfdiag.preferences.prefs"/>
+        <inventoryElement xsi:type="source:Configuration" name="org.eclipse.jdt.core.prefs" path="/home/akatosh/projet_mininet/mininet_topology/.settings/org.eclipse.jdt.core.prefs"/>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:Image" name="interface_clicked.png" path="/home/akatosh/projet_mininet/mininet_topology/interface_clicked.png"/>
+    </inventoryElement>
+  </model>
+</kdm:Segment>
